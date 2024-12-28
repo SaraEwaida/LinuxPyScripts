@@ -1,0 +1,4 @@
+Count C:\Users\Asus\OneDrive\Desktop\Test2
+List C:\Users\Asus\OneDrive\Desktop\Test2
+Sort C:\Users\Asus\OneDrive\Desktop\Test2 size
+
